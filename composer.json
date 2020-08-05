@@ -1,0 +1,25 @@
+{
+    "name": "soswapp/prjman.soswapp",
+    "description": "7 OS Web - Project manager",
+    "keywords": ["php","7","seven","os","web","app", "project", "manager"],
+    "homepage": "https://github.com/soswapp/prjman.soswapp",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ikechukwu Okalia",
+            "email": "dev@ikechukwuokalia.com"
+        },
+        {
+            "name": "Tym Frontiers Ltd.",
+            "email": "dev@tymfrontiers.com"
+        }
+    ],
+    "require": {
+      "tymfrontiers-cdn/php-session" : ">=0.1@stable"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {}
+    }
+}
